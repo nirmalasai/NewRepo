@@ -11,6 +11,8 @@ import org.testng.annotations.Test;
 		 {
 			 Reporter.log("test2",true);
 				//hello
+			 System.out.println("modified a file Practise2Test");
+			 System.out.println("modified a file Practise2Test retry");
 				
 				//change
 		 } 
